@@ -1,0 +1,9 @@
+theme = Rose Pine Dawn
+font-family = Hack Nerd Font
+
+copy-on-select = true
+shell-integration = detect
+
+background-opacity = 0.95
+background-blur-radius = 20
+unfocused-split-opacity = 0.85
